@@ -1,0 +1,17 @@
+Name: Prathamesh Lonkar
+BNumber: B00811727
+Email: plonkar1@binghamton.edu
+
+For this assignment I have reffered from various online sources to understand and implement the functionality of functions such as execcvp and dup2 etc.
+So far i have not added the code for pipes as i was having some errors and difficulties in implementing them, regardless i will still be workin on the code to execute the pipes properly.
+
+This code will run the following commands:
+1.)ls
+2.)ls -la
+3.)ls -la > output.txt
+4.)ls -la < output.txt
+5.)sort < output.txt
+
+and various other functions related to sorting.
+
+I have implemented my code over the code provided by Prof. Kartik Gopalan and also reffered to some code refered by Prof. Tom. 
